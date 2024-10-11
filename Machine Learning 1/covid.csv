@@ -1,0 +1,30 @@
+
+, ID , Fever , Cough , Breathing issues , Infected ,
+
+, 1 , NO , NO , NO , NO ,
+
+, 2 , YES , YES , YES , YES ,
+
+, 3 , YES , YES , NO , NO ,
+
+, 4 , YES , NO , YES , YES ,
+
+, 5 , YES , YES , YES , YES ,
+
+, 6 , NO , YES , NO , NO ,
+
+, 7 , YES , NO , YES , YES ,
+
+, 8 , YES , NO , YES , YES ,
+
+, 9 , NO , YES , YES , YES ,
+
+, 10 , YES , YES , NO , YES ,
+
+, 11 , NO , YES , NO , NO ,
+
+, 12 , NO , YES , YES , YES ,
+
+, 13 , NO , YES , YES , NO ,
+
+, 14 , YES , YES , NO , NO ,
